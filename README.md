@@ -55,8 +55,8 @@
 
 | Repo | Summary | Role |
 | --- | --- | --- |
-| [Distop](https://github.com/gks1209/Distop) | 학교 안전교육 강사 배정·정산 관리 시스템 — Next.js 어드민 웹 + Expo 모바일 앱, Supabase/Prisma 기반 | 기획·설계·개발 단독 진행 |
-| [Ear_Cut](https://github.com/gks1209/Ear_Cut) | 브라우저 탭 오디오를 실시간 캡처해 WAV로 저장하고, 로컬 AI(Demucs)로 보컬/악기를 분리하는 웹 오디오 도구 | 기획·설계·개발 단독 진행 |
+| [Distop](https://github.com/gks1209/Distop) · [🔗 Live Demo](https://distop-rho.vercel.app) | 학교 안전교육 강사 배정·정산 관리 시스템 — Next.js 어드민 웹 + Expo 모바일 앱, Supabase/Prisma 기반 | 기획·설계·개발 단독 진행 |
+| [Ear_Cut](https://github.com/gks1209/Ear_Cut) · [🔗 Live Demo](https://ear-cut.vercel.app) | 브라우저 탭 오디오를 실시간 캡처해 WAV로 저장하고, 로컬 AI(Demucs)로 보컬/악기를 분리하는 웹 오디오 도구 | 기획·설계·개발 단독 진행 |
 | [Off_the_Books](https://github.com/gks1209/Off_the_Books) | React Native(Expo) + Node/Express + PostgreSQL 기반 재고/판매 장부 앱, JWT 멀티테넌트 인증 & 오프라인 동기화 큐 | 기획·설계·개발 단독 진행 |
 
 ### Enterprise Automation
@@ -67,6 +67,7 @@
 | [servicenow-mm-estimation](https://github.com/gks1209/servicenow-mm-estimation) | 엔터프라이즈 플랫폼 구축 비용 산정을 자동화하는 저코드 UI 도구 | 설계·개발 단독 진행 |
 | [servicenow-vi-manual-creation](https://github.com/gks1209/servicenow-vi-manual-creation) | 보안 취약점(CVE)과 자산 정보를 조건 매칭해 대응 항목을 일괄 생성하는 4단계 마법사형 커스텀 앱 | 설계·개발 단독 진행 |
 
+<!--
 * * *
 
 ## 📊 GitHub Activity
@@ -78,6 +79,7 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gks1209&layout=compact&hide_border=true" width="48%" />
 </p>
+-->
 
 * * *
 
