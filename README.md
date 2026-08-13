@@ -72,11 +72,11 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-lac-ten-25.vercel.app/api?username=gks1209&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=gks1209&show_icons=true&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gks1209&hide_border=true" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-lac-ten-25.vercel.app/api/top-langs/?username=gks1209&layout=compact&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gks1209&layout=compact&hide_border=true" width="48%" />
 </p>
 
 * * *
