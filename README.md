@@ -25,7 +25,7 @@
 | Full-Stack Developer | Next.js / React Native / Node.js 기반 서비스를 기획부터 DB 설계, 배포까지 단독으로 진행 |
 | Enterprise Platform Automation | 대규모 SaaS 플랫폼(ServiceNow) 위에서 스크립트·저코드 기반으로 반복 업무를 자동화하는 도구 개발 |
 
-🎓 **Certifications**: ITIL Foundation · ServiceNow CSA · ServiceNow Data Foundation · CIS-VR
+🎓 **Certifications**: ITIL Foundation · ServiceNow CSA · ServiceNow Data Foundation · CIS-VR <br>
 🏢 **주요 프로젝트**: SK디스커버리 · 두산 · 롯데바이오로직스 · HYBE · 삼성 등 대기업 대상 엔터프라이즈 플랫폼 구축·자동화 프로젝트 수행
 
 * * *
