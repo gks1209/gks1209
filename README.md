@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm gks1209 👋</h1>
+<h1 align="center">Hi, I'm Jongsu 👋</h1>
 <h3 align="center">Automation-Focused Full-Stack Developer</h3>
 
 <p align="center">
